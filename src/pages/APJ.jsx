@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { FiSave, FiActivity, FiMessageSquare, FiCalendar, FiChevronRight, FiStar, FiSun, FiMoon, FiCloud } from 'react-icons/fi';
-import Navbar from '../Components/NavBar';
+import Navbar from '../components/NavBar';
 import Footer from '../components/Footer';
 const AIJournal = () => {
   const [entries, setEntries] = useState([]);
