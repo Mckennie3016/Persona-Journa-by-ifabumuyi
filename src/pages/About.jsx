@@ -19,27 +19,27 @@ export default function AboutUsPage() {
   const teamMembers = [
     {
       name: "Ifabumuyi Kehinde",
-      role: "Editor-in-Chief and Ceo",
-      bio: "Leading researcher in contemporary studies with 15+ years of editorial experience.",
+      role: "Editor-in-Chief and CEO",
+      bio: "Leading researcher in contemporary studies with 1+ years of editorial experience.",
       initial: "IK"
     },
     {
       name: "Clinton Soft",
       role: "Managing Editor",
       bio: "Award-winning journalist and published author specializing in investigative reporting.",
-      initial: "MR"
+      initial: "CS"
     },
     {
       name: "Hamzat Daodu",
       role: "Senior Editor",
       bio: "Academic specialist in interdisciplinary research and peer review processes.",
-      initial: "AH"
+      initial: "HD"
     },
     {
       name: "Olanrewaju Abioye",
       role: "Digital Director",
       bio: "Technology innovator focused on making scholarly content accessible worldwide.",
-      initial: "JT"
+      initial: "OA"
     }
   ];
 
