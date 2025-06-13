@@ -18,10 +18,10 @@ export default function AboutUsPage() {
 
   const teamMembers = [
     {
-      name: "Dr. Sarah Chen",
-      role: "Editor-in-Chief",
+      name: "Ifabumuyi Kehinde",
+      role: "Editor-in-Chief and Ceo",
       bio: "Leading researcher in contemporary studies with 15+ years of editorial experience.",
-      initial: "SC"
+      initial: "IK"
     },
     {
       name: "Clinton Soft",
