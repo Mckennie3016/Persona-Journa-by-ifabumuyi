@@ -72,7 +72,7 @@ export default function Navbar() {
         >
           <div className="flex flex-col space-y-3 py-4 px-2 bg-black/90 backdrop-blur-sm border border-white/20 rounded-xl">
             <Link 
-              to="/home"
+              to="/"
               className={`${navItemStyles} text-center ${transparentNavItemStyles}`}
               onClick={() => setIsOpen(false)}
             >
