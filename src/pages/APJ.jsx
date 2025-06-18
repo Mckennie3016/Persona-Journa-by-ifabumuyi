@@ -296,6 +296,7 @@ const AIJournal = () => {
   );
 };
 
+<<<<<<< HEAD
 // Sub-components for better organization
 const WriteTab = ({
   currentEntry,
@@ -523,3 +524,6 @@ const EntriesTab = ({ entries, formatDate, getSentimentIcon }) => (
 );
 
 export default AIJournal;
+=======
+export default AIJournal;
+>>>>>>> 43d265bbe61ed93aac047a885b1422cd304d9389
