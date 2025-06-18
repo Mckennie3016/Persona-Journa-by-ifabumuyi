@@ -157,7 +157,7 @@ const AIJournal = () => {
         ];
         response = genericResponses[Math.floor(Math.random() * genericResponses.length)];
       }
-      
+      //for koko
       setAiResponse(response);
       
     } catch (error) {
